@@ -41,20 +41,21 @@
 18) ### [Forecasting](https://github.com/yagniksorathiya/Forecasting)
 ___
 
-## Training Institutes
+# Training Institutes
 <table align="center">
 <tr>
 <td>
 <img src="https://github.com/yagniksorathiya/Data_Science_Assignments/assets/129974278/95478e7a-f194-4b4f-8828-3bfceb6c83ee" width="900"/>
-  </td>
+</td>
 </tr> 
   </table>
+<p align="center"> <b>Visit Now &#128071;&#127995;</b></p>
+<p align="center">
+<a href = "https://www.excelr.com/" target="_blank"><img src = "https://cdn3.iconfinder.com/data/icons/social-media-circle-long-shadow/1024/longShadow-1024.png" alt = "Visit Site"  width="40"height="40"/></a></p>
+
+
   
-  <p align="center">
-    <a href = "https://www.excelr.com/" target="blank"><img src = "https://github.com/yagniksorathiya/Data_Science_Assignments/assets/129974278/641b0bae-7fcf-4d2b-9f89-c5ec06c6a696" width="30%" height="30%"/></a>
-
-
-## Author
+# Author
 
 <table align="center">
 <tr>
@@ -68,10 +69,10 @@ ___
 
 
 <p align="center">
-<a href = "www.linkedin.com/in/yagnik-sorathiya-b788471b2/" target="blank"><img src = "https://github.com/yagniksorathiya/Data_Science_Assignments/assets/129974278/e7d9d5bc-c7e8-4b79-aaee-116c63a4ff5c" width="36" height="36"/></a> &nbsp;&nbsp;
-<a href = "https://www.instagram.com/yagnik_sorathiya_/"><img src = "https://github.com/yagniksorathiya/Data_Science_Assignments/assets/129974278/3f8d227d-9c50-4b1d-a559-2f76b6e82ea7" width="36" height="36"/></a>&nbsp;&nbsp;
-<a href = "mailto:yagniksorathiya11@gmail.com" target="blank"><img src = "https://github.com/yagniksorathiya/Data_Science_Assignments/assets/129974278/d3860ae9-3f89-474f-bf94-df692994d528" width="36" height="36"/></a>&nbsp;&nbsp;
-<a href = "https://www.snapchat.com/add/sorathiyayagnik/" target="blank"><img src = "https://github.com/yagniksorathiya/Data_Science_Assignments/assets/129974278/15e8e165-99ea-4f6b-9ec6-eb39095f5c98" width="36" height="36"/></a>
+<a href = "https://www.linkedin.com/in/yagnik-sorathiya-b788471b2/" target="_blank"><img src = "https://cdn0.iconfinder.com/data/icons/social-media-circle-long-shadow/1024/linkedin-1024.png" alt="Linkedin" width="36" height="36"/></a> &nbsp;&nbsp;
+<a href = "https://www.instagram.com/yagnik_sorathiya_/" target="_blank"><img src = "https://cdn0.iconfinder.com/data/icons/social-media-circle-6/1024/instagram-1024.png" alt= "Instagram"  width="36" height="36"/></a>&nbsp;&nbsp;
+<a href = "mailto:yagniksorathiya11@gmail.com" target="_blank"><img src = "https://cdn0.iconfinder.com/data/icons/social-media-circle-long-shadow/1024/mail-1024.png" alt="Mail" width="36" height="36"/></a>&nbsp;&nbsp;
+<a href = "https://www.snapchat.com/add/sorathiyayagnik/" target="_blank"><img src = "https://cdn0.iconfinder.com/data/icons/social-media-circle-long-shadow/1024/snapchat-1024.png" alt = "Snapchat"  width="36" height="36"/></a></p>
 
 </td>
 </tr> 
