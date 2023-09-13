@@ -45,7 +45,7 @@ ___
 <table align="center">
 <tr>
 <td>
-<img src="https://github.com/yagniksorathiya/Data_Science_Assignments/assets/129974278/95478e7a-f194-4b4f-8828-3bfceb6c83ee" width="900"/>
+<img src="https://github.com/yagniksorathiya/Data_Science_Assignments/assets/129974278/95478e7a-f194-4b4f-8828-3bfceb6c83ee" width="700"/>
 </td>
 </tr> 
   </table>
